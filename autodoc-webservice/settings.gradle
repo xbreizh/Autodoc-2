@@ -1,0 +1,6 @@
+rootProject.name = 'autodoc-webservice'
+include 'model'
+include 'consumer'
+include 'business'
+include 'web'
+
